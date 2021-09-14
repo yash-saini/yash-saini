@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+The technologies I have worked over:-
+-> Python, Django
+-> Machine Learning, Natural Language Processing, Deep Learning
+-> Java, C++, SQL Server
+-> Data Relationship Management (DRM)
+-> Enterprise Planning and Budgeting Cloud Service (EPBCS), Anaplan
+
+💬 Ask me about #Python, #ML, #NLP, #OOP
+
+📫 How to reach me:
+
+
+
+
+![thank-you-poster-spectrum-brush-260nw-1153070891](https://user-images.githubusercontent.com/31597693/133270500-8b37560a-77a6-4c10-b03a-fddbdfb9795d.jpg)
 <!--
 **yash-saini/yash-saini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
