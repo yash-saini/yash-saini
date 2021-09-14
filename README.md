@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 The technologies I have worked over:-
-<br>:first_quarter_moon: Python, Django<br/>
-<br>:first_quarter_moon: Machine Learning, Natural Language Processing, Deep Learning<br/>
-<br>:first_quarter_moon: Java, C++, SQL Server<br/>
-<br>:first_quarter_moon: Data Relationship Management (DRM)<br/>
-<br>:first_quarter_moon: Enterprise Planning and Budgeting Cloud Service (EPBCS), Anaplan<br/>
+<br>:first_quarter_moon: Python, Django
+<br>:first_quarter_moon: Machine Learning, Natural Language Processing, Deep Learning
+<br>:first_quarter_moon: Java, C++, SQL Server
+<br>:first_quarter_moon: Data Relationship Management (DRM)
+<br>:first_quarter_moon: Enterprise Planning and Budgeting Cloud Service (EPBCS), Anaplan
 
 💬 Ask me about #Python, #ML, #NLP, #OOP
 
