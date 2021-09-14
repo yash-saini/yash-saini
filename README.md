@@ -12,12 +12,13 @@ The technologies I have worked over:-
 <br>:scroll:[Emotion Scanning of the World's Best Colleges using Real Time Tweets.](https://link.springer.com/chapter/10.1007/978-981-15-5258-8_31?wt_mc=alerts.TOCseries)
 <br>:scroll:[Abusive text examination using Latent Dirichlet Allocation, Self organizing Maps and K means Clustering](https://ieeexplore.ieee.org/document/9121090)
 
-💬 Ask me about #Python, #ML, #NLP, #OOP, #AI
+💬 Ask me about:- #Python, #ML, #NLP, #OOP, #AI
 
 
 
 📫 How to reach me:
-:envelope: yash.0245113@gmail.com
+<br>:envelope: yash.0245113@gmail.com
+<br>:blue_book:[Yash Saini](https://www.linkedin.com/in/yash-saini/)
 
 
 
