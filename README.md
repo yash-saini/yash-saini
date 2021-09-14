@@ -9,7 +9,7 @@ The technologies I have worked over:-
 <br>:first_quarter_moon: Enterprise Planning and Budgeting Cloud Service (EPBCS), Anaplan
 
 Research Papers published:-
-<br>:scroll:![Emotion Scanning of the World's Best Colleges using Real Time Tweets.](https://link.springer.com/chapter/10.1007/978-981-15-5258-8_31?wt_mc=alerts.TOCseries)
+<br>:scroll:[Emotion Scanning of the World's Best Colleges using Real Time Tweets.](https://link.springer.com/chapter/10.1007/978-981-15-5258-8_31?wt_mc=alerts.TOCseries)
 
 💬 Ask me about #Python, #ML, #NLP, #OOP, #AI
 
