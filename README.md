@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 The technologies I have worked over:-
---> Python, Django
+:first_quarter_moon: Python, Django
 --> Machine Learning, Natural Language Processing, Deep Learning
 --> Java, C++, SQL Server
 --> Data Relationship Management (DRM)
