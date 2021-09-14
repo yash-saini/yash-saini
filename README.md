@@ -18,7 +18,7 @@ The technologies I have worked over:-
 
 📫 How to reach me:
 <br>:envelope: yash.0245113@gmail.com
-<br>:blue_book:[Yash Saini](https://www.linkedin.com/in/yash-saini/)
+<br>:blue_book: [LinkedIn](https://www.linkedin.com/in/yash-saini/)
 
 
 
