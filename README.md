@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Saini</h1>
-<h3 align="center">I am a versatile developer with a broad skill set particularly SQL server, MySQL, SSMS, SSRS, C#, .NET, Power BI, Data Management, Python</h3>
+<h3 align="center">I am a versatile developer with a broad skill set encompassing SQL server, MySQL, SSMS, SSRS, C#, .NET, Power BI, Data Management, Python</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-saini&label=Profile%20views&color=0e75b6&style=flat" alt="yash-saini" /> </p>
 
