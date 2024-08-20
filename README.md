@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash-saini" alt="yash-saini" /></a> </p>
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **C#, .NET**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yash-saini](https://github.com/yash-saini)
 
