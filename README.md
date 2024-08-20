@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Saini</h1>
-<h3 align="center">I am currently pursuing Masters in Computer Science & Engineering with specialization in Artificial Intelligence from State University of New York at Buffalo. Previously, I have worked as a consultant with Deloitte Consulting India Private Limited (Deloitte US-India).</h3>
+<h3 align="center">I am a versatile developer with a broad skill set particularly SQL server, MySQL, SSMS, SSRS, C#, .NET, Power BI, Data Management, Python</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-saini&label=Profile%20views&color=0e75b6&style=flat" alt="yash-saini" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/yash-saini](https://github.com/yash-saini)
 
-- 💬 Ask me about **Python, Solidity, Java, MS-SQL, Reactjs, Windows Batch scripts, EPM Automate Scripts, Data Relationship Management (DRM), Data Management**
+- 💬 Ask me about **Python, SSRS, SSMS, MySQL, C#, Solidity, Java, MS-SQL server, Reactjs, Windows Batch scripts, EPM Automate Scripts, Data Relationship Management (DRM), Data Management**
 
 - 📫 How to reach me **https://www.linkedin.com/in/yash-saini/**
 
