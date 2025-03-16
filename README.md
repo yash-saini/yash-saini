@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Saini</h1>
-<h3 align="center">I am a versatile developer with a broad skill set encompassing SQL server, .NET Desktop Application Development, MySQL, SSMS, SSRS, C#, .NET, Power BI, Data Management, Python</h3>
+<h3 align="center">I am a versatile developer with a broad skill set encompassing SQL server, .NET Desktop Application Development, WPF, WinForms, XAML, MySQL, SSMS, SSRS, C#, ASP.NET, Power BI, Data Management, Python</h3>
 
 - 🌱 I’m currently learning **C#, .NET**
 
