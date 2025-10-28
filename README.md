@@ -18,7 +18,7 @@
 <h3 align="left">Nuget Packages published:-</h3>
 
 - [Sankhya.Rupaantran](https://www.nuget.org/packages/Sankhya.Rupaantran)
-- [HrefWizard](https://www.nuget.org/packages/HrefWizard/2.0.0)
+- [HrefWizard](https://www.nuget.org/packages/HrefWizard)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
