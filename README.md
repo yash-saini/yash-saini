@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/yash-saini/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1S9lmvm1xVx4jlW23MRq_QRKigxVvgvxW/view?usp=sharing](https://drive.google.com/file/d/1S9lmvm1xVx4jlW23MRq_QRKigxVvgvxW/view?usp=sharing)
-
 <h3 align="left">Research Papers published:-</h3>
 
 - [Emotion Scanning of the World's Best Colleges using Real Time Tweets.](https://link.springer.com/chapter/10.1007/978-981-15-5258-8_31?wt_mc=alerts.TOCseries)
