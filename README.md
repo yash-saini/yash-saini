@@ -15,6 +15,10 @@
 
 - [Abusive text examination using Latent Dirichlet Allocation, Self organizing Maps and K means Clustering](https://ieeexplore.ieee.org/document/9121090)
 
+<h3 align="left">Nuget Packages published:-</h3>
+
+- [Sankhya.Rupaantran](https://www.nuget.org/packages/Sankhya.Rupaantran)
+- [HrefWizard](https://www.nuget.org/packages/HrefWizard/1.0.0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
