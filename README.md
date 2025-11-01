@@ -19,6 +19,7 @@
 
 - [Sankhya.Rupaantran](https://www.nuget.org/packages/Sankhya.Rupaantran)
 - [HrefWizard](https://www.nuget.org/packages/HrefWizard)
+- [Sankhya.Mudra.Rupaantran](https://www.nuget.org/packages/Sankhya.Mudra.Rupantraan)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
