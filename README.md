@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/yash-saini](https://github.com/yash-saini)
 
-- 💬 Ask me about **Python, SSRS, SSMS, MySQL, C#, Solidity, Java, MS-SQL server, Reactjs, Windows Batch scripts, EPM Automate Scripts, Data Relationship Management (DRM), Data Management**
+- 💬 Ask me about **C#, .NET, WPF, WinForms, Console apps, LINQ, EF Core, Python, SSRS, SSMS, MySQL, Solidity, Java, MS-SQL server, Reactjs, Windows Batch scripts, EPM Automate Scripts, Data Relationship Management (DRM), Data Management**
 
 - 📫 How to reach me **https://www.linkedin.com/in/yash-saini/**
 
