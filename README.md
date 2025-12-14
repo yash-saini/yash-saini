@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Saini</h1>
-<h3 align="center">I am a versatile developer with a broad skill set encompassing SQL server, .NET Desktop Application Development, .NET MAUI, WPF, WinForms, XAML, Blazor, ASP.NET Web API, MySQL, SSMS, SSRS, C#, ASP.NET, Power BI, Data Management, Python</h3>
+<h3 align="center">I am a jr. software engineer with a broad skill set encompassing SQL server, .NET Desktop Application Development, .NET MAUI, WPF, WinForms, XAML, Blazor, ASP.NET Web API, MySQL, SSMS, SSRS, C#, ASP.NET, Power BI, Data Management, Python</h3>
 
 - 🌱 I’m currently learning **C#, .NET**
 
@@ -8,12 +8,6 @@
 - 💬 Ask me about **C#, .NET, WPF, WinForms, Console apps, LINQ, EF Core, Python, SSRS, SSMS, MySQL, Solidity, Java, MS-SQL server, Reactjs, Windows Batch scripts, EPM Automate Scripts, Data Relationship Management (DRM), Data Management**
 
 - 📫 How to reach me **https://www.linkedin.com/in/yash-saini/**
-
-<h3 align="left">Research Papers published:-</h3>
-
-- [Emotion Scanning of the World's Best Colleges using Real Time Tweets.](https://link.springer.com/chapter/10.1007/978-981-15-5258-8_31?wt_mc=alerts.TOCseries)
-
-- [Abusive text examination using Latent Dirichlet Allocation, Self organizing Maps and K means Clustering](https://ieeexplore.ieee.org/document/9121090)
 
 <h3 align="left">Nuget Packages published:-</h3>
 
